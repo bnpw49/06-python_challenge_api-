@@ -7,7 +7,7 @@ This activity is broken down into two deliverables, WeatherPy and VacationPy.
 
 ## Part 1: WeatherPy
 You'll use the citipy Python library and the OpenWeatherMap API to create a representative model of weather across cities. 
- 
+ Tip- use your own api key. api key not provided. 
  &nbsp; 
 
 ### Requirement 1: Create Plots to Showcase the Relationship Between Weather Variables and Latitude
